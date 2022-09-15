@@ -1,0 +1,49 @@
+body{
+  
+  background: #62374e;
+  
+  
+  
+}
+.a{
+  position: relative;
+  background: #fdc57b;
+  top: 110px;
+  left: 30px;
+  border: 6px double;
+  width: 100px;
+  height: 100px
+  
+}
+
+.b{
+  position: relative;
+  background: #fdc57b;
+  top: 0px;
+  left: 250px;
+  border: 6px double;
+  width: 100px;
+  height: 100px
+  
+}
+.c{
+  position: relative;
+  background: #fdc57b;
+  top: 200px;
+  left: 30px;
+  border: 6px double;
+  width: 100px;
+  height: 100px
+  
+}
+
+.d{
+  position: relative;
+  background: #fdc57b;
+  top: 90px;
+  left: 250px;
+  border: 6px double;
+  width: 100px;
+  height: 100px
+  
+}
